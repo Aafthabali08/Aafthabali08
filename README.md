@@ -32,8 +32,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="mailto:aafthabali08@gmail.com" target="blank">
-<img align="center" src="https://media.istockphoto.com/id/826567080/vector/e-mail-icon-simple-vector-illustration-red-color.jpg?s=612x612&w=0&k=20&c=ysxmzarWz_6a2oyi1ue9p6OUBXAw8W1LQPsyorc_5hY=" alt="gmail" height="30" width="40" />
+<<a href="mailto:aafthabali08@gmail.com" target="blank">
+<img align="center" src="https://images.vexels.com/media/users/3/140928/isolated/preview/8d338f5acd60bfbc9b5fb1b208c8814f-outlined-email-round-icon.png" alt="gmail" height="30" width="40" />
 </a>
 
 <a href="https://www.leetcode.com/gv2023000468" target="blank">
