@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI/ML and Web Development Projects**
 
-- 🌱 I’m currently learning **AI/ML, Cloud Computing, React**
+- 🌱 I’m currently learning **AI/ML, Cloud Computing, System Design**
 
 - 👯 I’m looking to collaborate on **Open Source & Full Stack Projects**
 
