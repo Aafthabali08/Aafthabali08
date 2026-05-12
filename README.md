@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aafthab Ali 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Aafthab Ali Shaik 🇮🇳</h1>
 <h3 align="center">Building projects with AI/ML, Java, and Web Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aafthabali08&label=Profile%20views&color=0e75b6&style=flat" alt="aafthabali08" /> </p>
