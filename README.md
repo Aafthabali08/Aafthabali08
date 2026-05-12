@@ -32,11 +32,6 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="mailto:aafthabali08@gmail.com" target="blank">
-<img align="center" src="[https://www.svgrepo.com/show/353196/mail-with-circle.svg](https://www.clipartmax.com/png/middle/207-2074251_phone-icon-circle-ltblue-mail-pink.png)" alt="gmail" height="30" width="40" />
-</a>
-
-
 <a href="https://www.leetcode.com/gv2023000468" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
