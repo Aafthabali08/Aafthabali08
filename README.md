@@ -1,4 +1,4 @@
-Hey!👋 I'am Aafthab Ali Shaik 🇮🇳
+# Hey!👋 I'am Aafthab Ali Shaik 🇮🇳
 
 🛠️ I’m currently working on<br>AI-powered and Full Stack Web Applications<br><br>🤝 I’m looking to collaborate on<br>Innovative AI/ML and Open Source Projects<br><br>🤝 I’m looking for help with<br>System Design and Scalable Applications<br><br>🌱 I’m currently learning<br>System Design, Cloud Computing, and Machine Learning<br><br>💬 Ask me about<br>Java, DSA, Web Development, AI Tools<br><br>📫 How to reach me<br>aafthabali08@gmail.com<br><br>👨‍💻 All of my projects are available at<br>https://github.com/Aafthabali08<br><br>📄 Know about my experiences<br>https://drive.google.com/file/d/1plVgla2y4XgU_tjN63rG3vtU9ZEg5KWm/view?usp=sharing<br><br>⚡ Fun fact<br>I Eat a lot 😂
 
