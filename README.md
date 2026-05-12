@@ -33,7 +33,7 @@
 </a>
 
 <a href="mailto:aafthabali08@gmail.com" target="blank">
-<img align="center" src="https://www.svgrepo.com/show/353196/mail-with-circle.svg" alt="gmail" height="30" width="40" />
+<img align="center" src="[https://www.svgrepo.com/show/353196/mail-with-circle.svg](https://www.clipartmax.com/png/middle/207-2074251_phone-icon-circle-ltblue-mail-pink.png)" alt="gmail" height="30" width="40" />
 </a>
 
 
